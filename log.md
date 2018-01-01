@@ -3,7 +3,8 @@
 ### Day 0: January 1, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: started *Introduction to Databases in Python* and completed Basics of Relational Databases.
+**Today's Progress**: started *Introduction to Databases in Python* and completed Basics of Relational Databases.(DataCamp)
+I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). I also joined a FCC study group
 
 **Thoughts:** I'm excited to start now on databases, which i can use for future projects.
 
