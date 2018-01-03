@@ -2,7 +2,6 @@
 
 ####R1 2018
 ### Day 0: January 1, Monday
-##### (delete me or comment me out)
 
 **Today's Progress**: started *Introduction to Databases in Python* and completed Basics of Relational Databases.(DataCamp)
 I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). I also joined a FCC study group
@@ -11,8 +10,8 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 
 **Link to work:** [Introduction to Databases](https://campus.datacamp.com/courses/introduction-to-relational-databases-in-python/basics-of-relational-databases?ex=1) <- might not work in a few months.
 
+
 ### Day 1: January 2, Tuesday
-##### (delete me or comment me out)
 
 **Today's Progress**: I completed *Basic CSS* from *Responsive Web Design* (FCCbeta) - ahead of schedule, but will go ahead to account for any delays once i get busy with EDSA. I completed *Applying Filtering, Ordering and Grouping to Queries* from DataCamp. looking into creating an instabot and a twitterbot.
 
@@ -21,12 +20,24 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 **Link(s) to work**: [Instapy](https://github.com/timgrossmann/InstaPy)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 3, Wednessday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Today i was too drained to do much. nearly finished a chapter on hiarchical tables (DataCamp) and half way through Applied Visual Design (FCCbeta)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: i tried to get instapy-gui to work at the office but was unsuccessful. i will be installing instapy on the raspi and periodically running it headleass from there.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+none at the moment
+
+
+
+[ Template ]
+### Day : January, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [ websitename ](https://www.adress)
+2. [ websitename ](https://www.adress)
