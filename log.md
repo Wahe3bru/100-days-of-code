@@ -30,6 +30,33 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 none at the moment
 
 
+### Day 3: January 4, Thursday
+
+**Today's Progress**: none. spent the whole day at Tweede Tol with friends.
+
+**Thoughts**: came home too exhausted to open laptop and do one challenge ;|
+
+**Link(s) to work**
+[insert pic of the fun we had](#)
+
+
+### Day 4: January 5, Friday
+
+**Today's Progress**: Nearly finished the Database section on DataCamp. completed half of the Applied Visual Design chapter (FCCbeta). updated and upgraded Raspi then went to bed.
+
+**Thoughts**: ended early at work so didn't finish DB chapter. tomorow i will play with the instapy script.
+
+**Link(s) to work**
+
+
+### Day 5: January 6, Saturday
+
+**Today's Progress**: Installed and got the InstaPy script working. tested with the test account. running 100 like on 4 tags for the trail account. worked on Applied Visual Design (FCCbeta)
+
+**Thoughts**: plan to run the script for the weekend and see if theres uptick.
+
+**Link(s) to work**
+
 
 [ Template ]
 ### Day : January, day
