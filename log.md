@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-####R1 2018
+## R1 2018
 ### Day 0: January 1, Monday
 
 **Today's Progress**: started *Introduction to Databases in Python* and completed Basics of Relational Databases.(DataCamp)
@@ -51,11 +51,21 @@ none at the moment
 
 ### Day 5: January 6, Saturday
 
-**Today's Progress**: Installed and got the InstaPy script working. tested with the test account. running 100 like on 4 tags for the trail account. worked on Applied Visual Design (FCCbeta)
+**Today's Progress**: Installed and got the InstaPy script working. tested with the test account. running 100 like on 4 tags for the trail account.  Completed Applied Visual Design (FCCbeta)
 
 **Thoughts**: plan to run the script for the weekend and see if theres uptick.
 
 **Link(s) to work**
+
+ 
+### Day 6: January 7, Sunday
+
+**Today's Progress**: completed the intro to Databases (DataCamp) and finished chapter1 of Data Viz with Python course. 
+Started on Applied Accessibility section (FCCbeta).
+
+**Thoughts**: created a script for my insta account but stopped it in order to test the script with LTC. to see what having a big following and content and then running script does. we hoping to see a nice effect. but after one run i doubt it will be big. Traillurve is already showing noticeable results, but lack of content is stifling growth - i figure.
+
+**Link(s) to work** [traillurve](www.instagram.com/traillurve)
 
 
 [ Template ]
