@@ -67,6 +67,15 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work** [traillurve](www.instagram.com/traillurve)
 
+### Day : January, day
+
+**Today's Progress**: completedthe Intro to Databases (DataCamp) and just over half way through Data Visualization with Python (DataCamp). I couldn't access FCCbeta to make any progress there.
+
+**Thoughts**: I need to start thinking about the FCC projects and also working out how to complete the CT H2O chart
+
+**Link(s) to work**
+
+
 
 [ Template ]
 ### Day : January, day
