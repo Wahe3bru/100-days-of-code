@@ -67,7 +67,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work** [traillurve](www.instagram.com/traillurve)
 
-### Day : January, day
+### Day 7: January 8, Monday
 
 **Today's Progress**: completedthe Intro to Databases (DataCamp) and just over half way through Data Visualization with Python (DataCamp). I couldn't access FCCbeta to make any progress there.
 
@@ -75,6 +75,14 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work**
 
+
+## Day 8: January 9, Tuesday
+
+**Today's Progress**: I completed Data Visualisation with Python and now working through Intro to Bokeh (DataCamp). for the 2nd day I can't access FCCbeta.
+
+**Thoughts**: I have seen plot.ly, but today i discovered plotly Dash and i think it will make my CT H2O project easier to complete. It's Python base and I can use Pandas. It doesn't look too hard to grasp and hopefully master. I also want to focus on flask so that i can host projects. but for now i think i will put it on the backburner and focus on plotly dash to complete the CT H2O project and see how i can turn the property valuation data into something.
+
+**Link(s) to work** [plotly Dash](#)
 
 
 [ Template ]
