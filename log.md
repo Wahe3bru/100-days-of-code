@@ -84,6 +84,14 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work** [plotly Dash](#)
 
+### Day 9: January 10, Wednessday
+
+**Today's Progress**: Spent over 4 hours on DataCamp, completing the Data Viz with Bokeh course. I couldn't access FCCbeta again  ;(
+
+**Thoughts**: I learned about Bokeh Server, and free hosting of app on anaconda.org. I see this and Dash are rather difficult to embed in a webpage. 
+
+**Link(s) to work**
+
 
 [ Template ]
 ### Day : January, day
