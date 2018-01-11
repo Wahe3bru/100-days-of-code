@@ -93,6 +93,16 @@ Started on Applied Accessibility section (FCCbeta).
 **Link(s) to work**
 
 
+### Day 10: January 11, Thursday
+
+**Today's Progress**: I spent over four hours on the statistical thinking course pt1 (DataCamp). finally able to access FCCbeta and had to find where i stopped. read up on <u> tag and why not to use it for underlining.
+
+**Thoughts**: I am behind in completing all the DataCamp courses before the academy starts. if i continue at my current rate i might be able to finish by the end of January. Read up more on Bokeh and seems like it is quick and easy to make simple interactive graphs. so will focus on that but continue to learn d3 as that is the King of data viz.
+
+**Link(s) to work**
+
+
+
 [ Template ]
 ### Day : January, day
 
