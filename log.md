@@ -102,6 +102,24 @@ Started on Applied Accessibility section (FCCbeta).
 **Link(s) to work**
 
 
+### Day 11: January 12, Friday
+
+**Today's Progress**: battling a tummy bug but managed to complete intro to stats pt1 (Datacamp).
+watched a talk on Bokeh and followed along a tutorial on Bokeh
+
+**Thoughts**: I have decided to focus on Bokeh and eventually to learn d3. Bokeh should be easier to some what master, in terms of quickly generating good visual and interactive graphs.
+
+**Link(s) to work** (Bokeh talk](youtube ang)
+
+
+### Day 12: January 13, Saturday
+
+**Today's Progress**: Got up eary and tackled the second part of the Intro to stats (DataCamp). I played around with Bokeh but struggled for some reason to get the first column in the df to pick up in Bokeh. 
+
+**Thoughts**: I will be redoing the data now that i don't have to convert to csv. read it in it excel format and save the df's. then create graphs and link them interactively.
+
+**Link(s) to work**
+
 
 [ Template ]
 ### Day : January, day
