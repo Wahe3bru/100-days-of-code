@@ -121,6 +121,15 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
+### Day 13: January 14, Sunday
+
+**Today's Progress**: I am halfway through the machine learning intro course of DataCamp. I left the final chapter of the stats part2 course on hypothesis testing to be completed tomorrow.
+
+**Thoughts**: in order for me to learn and become proficient in bokeh i will start doing a graph a day building my knowledge on the syntax, especially what i need to load and the capabilities that i can extract.
+
+**Link(s) to work**
+
+
 [ Template ]
 ### Day : January, day
 
