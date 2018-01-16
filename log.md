@@ -130,6 +130,23 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
+### Day 14: January 15, Monday
+
+**Today's Progress**: I finished the stats course and continued with the machine learning intro course. highly enjoyable.
+
+**Thoughts**: very interesting course, i have done a basic ML intro but this covers abit more.
+
+**Link(s) to work**
+
+
+### Day 15: January16 , Tuesday
+
+**Today's Progress**: Completed the intro to machine learning and learned alot about the regressors, hyperparameter tuning and piplining. start on the next course which is a practical ML project really.
+
+**Thoughts**: I could skip this current course and move on closer to completing the Data Science track, but this course is very interesting. Also discovered DrivenData and hope to partake in their competitions soon.
+
+**Link(s) to work**
+
 [ Template ]
 ### Day : January, day
 
