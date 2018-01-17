@@ -147,6 +147,16 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
+
+### Day 16: January 17, Wednesday
+
+**Today's Progress**: today I was exhausted and struggled to oncentrate on anything today. but the 2nd half of the workday i rallied and worked on the "Machine learning with experts" course until the i couldn't view the video for the next chapter. I then read up on applied accesibility from FCCbeta
+
+**Thoughts**: I've noticed that i really need to eat more the Tuesday night if i do TT or wednesday Blockhouse run. otherwise i am useless the next day.
+
+**Link(s) to work**
+
+
 [ Template ]
 ### Day : January, day
 
