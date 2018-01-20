@@ -157,6 +157,33 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
+### Day 18: January 18, Thursday
+
+**Today's Progress**: I still couldn't view the video for the next chapter so researched further Dash. Then read up on barcharts and pi charts on BokehJS. reviewed some work from fellow campers and gave some advice.
+
+**Thoughts**: My last real day at work, took it super easy after i no longer could progress with DataCamp at work. Reviewing others projects has given me motivation to start on my front page projects for FCCbeta
+
+**Link(s) to work**
+
+
+### Day 19: January 20, Friday
+
+**Today's Progress**: Today was my last day at work. worked abit on DataCamp but finishing the last of the admin at work. Did our first trial run of the librarybox in Mosque Shafee after Jumuah. the range is amazing. found a quirk with the latest samsung internet browser.
+
+**Thoughts**: a year later the librarybox is finally installed! luckily i was teamed with not only a good web designer, but someone who will actively monitor and be in charge of it. hopefully this will help many people.
+
+**Link(s) to work** (screenshot)[of the librarybox page]
+
+
+### Day 20: January 21, Saturday
+
+**Today's Progress**: I completed the Maching learning with experts course on DataCamp. and half way through the unsupervised learning course.
+
+**Thoughts**: first time looking at unsupervised learning. need to find a project that i can use these algorythms in.
+
+**Link(s) to work**
+
+
 [ Template ]
 ### Day : January, day
 
