@@ -157,7 +157,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
-### Day 18: January 18, Thursday
+### Day 17: January 18, Thursday
 
 **Today's Progress**: I still couldn't view the video for the next chapter so researched further Dash. Then read up on barcharts and pi charts on BokehJS. reviewed some work from fellow campers and gave some advice.
 
@@ -166,7 +166,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
-### Day 19: January 20, Friday
+### Day 18: January 19, Friday
 
 **Today's Progress**: Today was my last day at work. worked abit on DataCamp but finishing the last of the admin at work. Did our first trial run of the librarybox in Mosque Shafee after Jumuah. the range is amazing. found a quirk with the latest samsung internet browser.
 
@@ -175,11 +175,29 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work** (screenshot)[of the librarybox page]
 
 
-### Day 20: January 21, Saturday
+### Day 19: January 20, Saturday
 
 **Today's Progress**: I completed the Maching learning with experts course on DataCamp. and half way through the unsupervised learning course.
 
 **Thoughts**: first time looking at unsupervised learning. need to find a project that i can use these algorythms in.
+
+**Link(s) to work**
+
+
+### Day 20: January 21, Sunday
+
+**Today's Progress**: not much work done today, quite a full day, fkt3.0, a double kids party and another adult party. came home too exhausted.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
+### Day 21: January 22, Monday
+
+**Today's Progress**: first day of Explore Data Science Academy, alot to take in, and admin... not much coding but 2 sections of statistics, mostly probabilities.
+
+**Thoughts**: tomorrow work begins on python and posgres sql. looking to forward to getting started.
 
 **Link(s) to work**
 
