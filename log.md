@@ -202,6 +202,33 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
+### Day 22: January 23, Tuesday
+
+**Today's Progress**: Installed PosgreSQL and spent most of the day doing udemy course on postgreSQL
+
+**Thoughts**: Getting the basic syntax down but the joins are kinda tricky. will need to master that.
+
+**Link(s) to work**
+
+
+### Day 23: January24, Wednessday
+
+**Today's Progress**: Today was the python installation via Anaconda. created the edsa environment and downloaded necessary libraries. went over the basics of python again at literally double time. I check that jupyter notebook was working correctly, but will only focus on python in three weeks. started on 3rd chapter of unservised learning on DataCamp but switched to the SQL intro
+
+**Thoughts**: Doing the intro of SQL on datacamp was much easier. i guess the second time going over the basics cements the basic concepts firmly. the tables are smaller and easier to navigate which made joining them simpler. finished the intro quite easily before starting on the next SQL course.
+
+**Link(s) to work**
+
+
+### Day 24: January 25, Thursday
+
+**Today's Progress**: Today was the final install fest. installed powerBI. i finished half of the advanced SQL course before switching to the powerBI Udemy course. not much could be done today as we had a workshop and were put in groups.
+
+**Thoughts**: DataCamps approach to SQL was much easier to understand than th eUdemy course. they go even further with the joins including anti-join and the tip about using alias when joining tables makes it s much easier. 
+
+**Link(s) to work**
+
+
 [ Template ]
 ### Day : January, day
 
