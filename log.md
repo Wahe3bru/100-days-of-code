@@ -228,7 +228,40 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
+### Day 25: January 26, Friday
 
+**Today's Progress**: I went through half of the powerBI course. end of the first week so abit of social party.
+
+**Thoughts**: from Monday it will be full throttle. i look forward to perfecting my SQL queries and moving on to creating and deleting tables and db's.
+
+**Link(s) to work**
+
+
+### Day26 : January 27, Saturday
+
+**Today's Progress**: A pretty chilled day, raspi meetup about sonoff - flashing, demo and possible integration with Home Assistant.
+
+**Thoughts**: I started an openCV course on Udemy for business (1 of only 2 available). i hope to learn enough of the basics to further study CV as well as NLP
+
+**Link(s) to work**
+
+
+### Day 27: January28 , Sunday
+
+**Today's Progress**: I completed the SQL joining course, left the final 3 problems for tomorrow as a revision. I also started the openCV course. busy with the intro vids, will start soon with the basics.
+
+**Thoughts**: i realise that i have a head start and so should not go at their pace, but perfect what i need to know now, and still continue on openCV and NLP whilst i am ahead and not struggling to keep up.
+
+
+### Day : January, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+**Link(s) to work**
 [ Template ]
 ### Day : January, day
 
