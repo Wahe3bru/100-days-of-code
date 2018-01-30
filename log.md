@@ -252,14 +252,32 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Thoughts**: i realise that i have a head start and so should not go at their pace, but perfect what i need to know now, and still continue on openCV and NLP whilst i am ahead and not struggling to keep up.
 
+**Link(s) to work**
+
+
+### Day 28: January 29, Monday
+
+**Today's Progress**: Spent 4 hours on "SQL & Database design A-Z" Udemy course.
+
+**Thoughts**: It was super hot 37C and was a struggle to concentrate. will finish the rest of the course tommorrow
+
+**Link(s) to work**
+
+
+### Day 29: January 30, Tuesday
+
+**Today's Progress**: I finished the "SQL & Database design A-Z" Udemy course. very interesting learning about stages of normalisation and thinking about how to go about designing the db around the data we have accumulated. although there is still plenty more that we need.
+
+**Thoughts**:  I am  more confident in SQL queries and will be testing my JOINS tomorrow.
+
+**Link(s) to work**
+
 
 ### Day : January, day
 
 **Today's Progress**: 
 
 **Thoughts**: 
-
-**Link(s) to work**
 
 **Link(s) to work**
 [ Template ]
