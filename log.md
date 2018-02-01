@@ -273,15 +273,26 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 **Link(s) to work**
 
 
-### Day : January, day
+### Day 30: January 31, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Nearly finish with SQL, finished the SQL and db design course on Udemy.
 
-**Thoughts**: 
+**Thoughts**: really getting the hang of it today, using subqueries are nice :) 
 
 **Link(s) to work**
+
+
+### Day 31: Febraury 1, Thursday
+
+**Today's Progress**: Completed _The ultimate SQL Bootcamp_ as well as _SQL: from Zero to Hero_. Played around creating, altering and droppting tables. will make integrating SQL with python much easier now.
+
+**Thoughts**: played around with the water crisis db and it's going to be quite a mission getting it to the 3rd Normalization.
+Also the different formatting of the collumns and table, will need a thorough investigationand plan of attack.
+
+**Link(s) to work**
+
 [ Template ]
-### Day : January, day
+### Day : Febraury, day
 
 **Today's Progress**: 
 
