@@ -291,6 +291,23 @@ Also the different formatting of the collumns and table, will need a thorough in
 
 **Link(s) to work**
 
+
+### Day 32: Febraury 2, Friday
+
+**Today's Progress**: Today i went over some SQL joins. but spent the bulk of my time searching for database documenatation guidelines and templates,as well as database design philosiphy.
+
+**Thoughts**: After the meeting with our supervisor we were informed of what was expected and the amount of work needed is immense, especially since most of my team members are not up to date with their sql. i will have to take point and write activities that need to be done and each member can decide which ones to complete.
+
+**Link(s) to work**
+
+
+### Day 33: Febraury 3, Saturday
+
+**Today's Progress**: not much done, read up the intro of _LEARNING_OPENCV_3_COMPUTER_VISION_WITH_PYTHON_ and started with DataCampsNLP intro course learning regex with the re module.
+
+**Thoughts**: Still recovering from yesterdays Batrun recce. went to CTFED.org's workshop on how to give a talk which will be helpfull later when i have to present.
+
+**Link(s) to work**
 [ Template ]
 ### Day : Febraury, day
 
