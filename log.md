@@ -308,15 +308,18 @@ Also the different formatting of the collumns and table, will need a thorough in
 **Thoughts**: Still recovering from yesterdays Batrun recce. went to CTFED.org's workshop on how to give a talk which will be helpfull later when i have to present.
 
 **Link(s) to work**
-
+---
 ### Day 34: Febraury 4, Sunday
 
 **Today's Progress**: pretty laid back day, worked on the Water_crisis db documentation and created a todo list for the team. hopefully get some feedbak from the team and add more to it.
 
-**Thoughts**: sundays ar my non productive day, luckily i managed to get some documentation done.
+**Thoughts**: sundays ar my non productive day, luckily i managed to get some documentation done. also learned some more markup and how to include emojis :smile:
 
 **Link(s) to work**
 [db guide - hackMD](https://hackmd-ce.herokuapp.com/IwFmAYHYA5wTgLQGYSQEYJNGC3mAGYIBsATCGtNAcEgKYFpA#Guide)
+
+---
+
 ### Day : Febraury, day
 
 **Today's Progress**: 
