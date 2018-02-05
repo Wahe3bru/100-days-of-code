@@ -320,13 +320,15 @@ Also the different formatting of the collumns and table, will need a thorough in
 
 ---
 
-### Day : Febraury, day
+### Day 35: Febraury 5, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Today i learned abit more on PostgreSQL, like the commit, index and copying data from csv into SQL db.
 
-**Thoughts**: 
+**Thoughts**: my progress is remarkable, but there is still more to learn and then integrating python into it as well. i need the rest of my team to catch up so that we can move forward. till then i will be working on the db documentation.
 
 **Link(s) to work**
+
+---
 
 [ Template ]
 ### Day : Febraury, day
