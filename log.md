@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 ## R1 2018
+---
+
 ### Day 0: January 1, Monday
 
 **Today's Progress**: started *Introduction to Databases in Python* and completed Basics of Relational Databases.(DataCamp)
@@ -10,7 +12,7 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 
 **Link to work:** [Introduction to Databases](https://campus.datacamp.com/courses/introduction-to-relational-databases-in-python/basics-of-relational-databases?ex=1) <- might not work in a few months.
 
-
+---
 ### Day 1: January 2, Tuesday
 
 **Today's Progress**: I completed *Basic CSS* from *Responsive Web Design* (FCCbeta) - ahead of schedule, but will go ahead to account for any delays once i get busy with EDSA. I completed *Applying Filtering, Ordering and Grouping to Queries* from DataCamp. looking into creating an instabot and a twitterbot.
@@ -19,7 +21,7 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 
 **Link(s) to work**: [Instapy](https://github.com/timgrossmann/InstaPy)
 
-
+---
 ### Day 2: January 3, Wednessday
 
 **Today's Progress**: Today i was too drained to do much. nearly finished a chapter on hiarchical tables (DataCamp) and half way through Applied Visual Design (FCCbeta)
@@ -29,7 +31,7 @@ I started *Responsive Web Design* and completed Basic HTML and HTML5 (FCCbeta). 
 **Link(s) to work**
 none at the moment
 
-
+---
 ### Day 3: January 4, Thursday
 
 **Today's Progress**: none. spent the whole day at Tweede Tol with friends.
@@ -39,7 +41,7 @@ none at the moment
 **Link(s) to work**
 [insert pic of the fun we had](#)
 
-
+---
 ### Day 4: January 5, Friday
 
 **Today's Progress**: Nearly finished the Database section on DataCamp. completed half of the Applied Visual Design chapter (FCCbeta). updated and upgraded Raspi then went to bed.
@@ -48,7 +50,7 @@ none at the moment
 
 **Link(s) to work**
 
-
+---
 ### Day 5: January 6, Saturday
 
 **Today's Progress**: Installed and got the InstaPy script working. tested with the test account. running 100 like on 4 tags for the trail account.  Completed Applied Visual Design (FCCbeta)
@@ -57,7 +59,7 @@ none at the moment
 
 **Link(s) to work**
 
- 
+ ---
 ### Day 6: January 7, Sunday
 
 **Today's Progress**: completed the intro to Databases (DataCamp) and finished chapter1 of Data Viz with Python course. 
@@ -67,6 +69,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work** [traillurve](www.instagram.com/traillurve)
 
+---
 ### Day 7: January 8, Monday
 
 **Today's Progress**: completedthe Intro to Databases (DataCamp) and just over half way through Data Visualization with Python (DataCamp). I couldn't access FCCbeta to make any progress there.
@@ -75,7 +78,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work**
 
-
+---
 ## Day 8: January 9, Tuesday
 
 **Today's Progress**: I completed Data Visualisation with Python and now working through Intro to Bokeh (DataCamp). for the 2nd day I can't access FCCbeta.
@@ -84,6 +87,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work** [plotly Dash](#)
 
+---
 ### Day 9: January 10, Wednessday
 
 **Today's Progress**: Spent over 4 hours on DataCamp, completing the Data Viz with Bokeh course. I couldn't access FCCbeta again  ;(
@@ -92,7 +96,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work**
 
-
+---
 ### Day 10: January 11, Thursday
 
 **Today's Progress**: I spent over four hours on the statistical thinking course pt1 (DataCamp). finally able to access FCCbeta and had to find where i stopped. read up on <u> tag and why not to use it for underlining.
@@ -101,7 +105,7 @@ Started on Applied Accessibility section (FCCbeta).
 
 **Link(s) to work**
 
-
+---
 ### Day 11: January 12, Friday
 
 **Today's Progress**: battling a tummy bug but managed to complete intro to stats pt1 (Datacamp).
@@ -111,7 +115,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work** (Bokeh talk](youtube ang)
 
-
+---
 ### Day 12: January 13, Saturday
 
 **Today's Progress**: Got up eary and tackled the second part of the Intro to stats (DataCamp). I played around with Bokeh but struggled for some reason to get the first column in the df to pick up in Bokeh. 
@@ -120,7 +124,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 13: January 14, Sunday
 
 **Today's Progress**: I am halfway through the machine learning intro course of DataCamp. I left the final chapter of the stats part2 course on hypothesis testing to be completed tomorrow.
@@ -129,7 +133,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 14: January 15, Monday
 
 **Today's Progress**: I finished the stats course and continued with the machine learning intro course. highly enjoyable.
@@ -138,7 +142,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 15: January16 , Tuesday
 
 **Today's Progress**: Completed the intro to machine learning and learned alot about the regressors, hyperparameter tuning and piplining. start on the next course which is a practical ML project really.
@@ -147,7 +151,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 16: January 17, Wednesday
 
 **Today's Progress**: today I was exhausted and struggled to oncentrate on anything today. but the 2nd half of the workday i rallied and worked on the "Machine learning with experts" course until the i couldn't view the video for the next chapter. I then read up on applied accesibility from FCCbeta
@@ -156,7 +160,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 17: January 18, Thursday
 
 **Today's Progress**: I still couldn't view the video for the next chapter so researched further Dash. Then read up on barcharts and pi charts on BokehJS. reviewed some work from fellow campers and gave some advice.
@@ -165,7 +169,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 18: January 19, Friday
 
 **Today's Progress**: Today was my last day at work. worked abit on DataCamp but finishing the last of the admin at work. Did our first trial run of the librarybox in Mosque Shafee after Jumuah. the range is amazing. found a quirk with the latest samsung internet browser.
@@ -174,7 +178,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work** (screenshot)[of the librarybox page]
 
-
+---
 ### Day 19: January 20, Saturday
 
 **Today's Progress**: I completed the Maching learning with experts course on DataCamp. and half way through the unsupervised learning course.
@@ -183,7 +187,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 20: January 21, Sunday
 
 **Today's Progress**: not much work done today, quite a full day, fkt3.0, a double kids party and another adult party. came home too exhausted.
@@ -192,7 +196,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 21: January 22, Monday
 
 **Today's Progress**: first day of Explore Data Science Academy, alot to take in, and admin... not much coding but 2 sections of statistics, mostly probabilities.
@@ -201,7 +205,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 22: January 23, Tuesday
 
 **Today's Progress**: Installed PosgreSQL and spent most of the day doing udemy course on postgreSQL
@@ -210,7 +214,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 23: January24, Wednessday
 
 **Today's Progress**: Today was the python installation via Anaconda. created the edsa environment and downloaded necessary libraries. went over the basics of python again at literally double time. I check that jupyter notebook was working correctly, but will only focus on python in three weeks. started on 3rd chapter of unservised learning on DataCamp but switched to the SQL intro
@@ -219,7 +223,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+--
 ### Day 24: January 25, Thursday
 
 **Today's Progress**: Today was the final install fest. installed powerBI. i finished half of the advanced SQL course before switching to the powerBI Udemy course. not much could be done today as we had a workshop and were put in groups.
@@ -228,6 +232,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
+---
 ### Day 25: January 26, Friday
 
 **Today's Progress**: I went through half of the powerBI course. end of the first week so abit of social party.
@@ -236,7 +241,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day26 : January 27, Saturday
 
 **Today's Progress**: A pretty chilled day, raspi meetup about sonoff - flashing, demo and possible integration with Home Assistant.
@@ -245,7 +250,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 27: January28 , Sunday
 
 **Today's Progress**: I completed the SQL joining course, left the final 3 problems for tomorrow as a revision. I also started the openCV course. busy with the intro vids, will start soon with the basics.
@@ -254,7 +259,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 28: January 29, Monday
 
 **Today's Progress**: Spent 4 hours on "SQL & Database design A-Z" Udemy course.
@@ -263,7 +268,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 29: January 30, Tuesday
 
 **Today's Progress**: I finished the "SQL & Database design A-Z" Udemy course. very interesting learning about stages of normalisation and thinking about how to go about designing the db around the data we have accumulated. although there is still plenty more that we need.
@@ -272,7 +277,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 30: January 31, Wednesday
 
 **Today's Progress**: Nearly finish with SQL, finished the SQL and db design course on Udemy.
@@ -281,7 +286,7 @@ watched a talk on Bokeh and followed along a tutorial on Bokeh
 
 **Link(s) to work**
 
-
+---
 ### Day 31: Febraury 1, Thursday
 
 **Today's Progress**: Completed _The ultimate SQL Bootcamp_ as well as _SQL: from Zero to Hero_. Played around creating, altering and droppting tables. will make integrating SQL with python much easier now.
@@ -291,7 +296,7 @@ Also the different formatting of the collumns and table, will need a thorough in
 
 **Link(s) to work**
 
-
+---
 ### Day 32: Febraury 2, Friday
 
 **Today's Progress**: Today i went over some SQL joins. but spent the bulk of my time searching for database documenatation guidelines and templates,as well as database design philosiphy.
@@ -300,7 +305,7 @@ Also the different formatting of the collumns and table, will need a thorough in
 
 **Link(s) to work**
 
-
+---
 ### Day 33: Febraury 3, Saturday
 
 **Today's Progress**: not much done, read up the intro of _LEARNING_OPENCV_3_COMPUTER_VISION_WITH_PYTHON_ and started with DataCampsNLP intro course learning regex with the re module.
@@ -329,7 +334,15 @@ Also the different formatting of the collumns and table, will need a thorough in
 **Link(s) to work**
 
 ---
+### Day 36: Febraury 6, Tuesday
 
+**Today's Progress**: Spent most of the day playing with postgreSQL and a bit of python, using pandas to read in the csv and plot the dam levels for a quick assessment of any discrepencies in the data.
+
+**Thoughts**: I can't wait to start the next phase with python as i am forgetting the basics. so tired of waiting on my team to catch up so we can actually move forward with the db
+
+**Link(s) to work**
+
+---
 [ Template ]
 ### Day : Febraury, day
 
