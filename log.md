@@ -308,7 +308,7 @@ Also the different formatting of the collumns and table, will need a thorough in
 ---
 ### Day 33: Febraury 3, Saturday
 
-**Today's Progress**: not much done, read up the intro of _LEARNING_OPENCV_3_COMPUTER_VISION_WITH_PYTHON_ and started with DataCampsNLP intro course learning regex with the re module.
+**Today's Progress**: not much done, read up the intro of _LEARNING_OPENCV_3_COMPUTER_VISION_WITH_PYTHON_ and started with DataCamps NLP intro course learning regex with the re module.
 
 **Thoughts**: Still recovering from yesterdays Batrun recce. went to CTFED.org's workshop on how to give a talk which will be helpfull later when i have to present.
 
@@ -339,6 +339,169 @@ Also the different formatting of the collumns and table, will need a thorough in
 **Today's Progress**: Spent most of the day playing with postgreSQL and a bit of python, using pandas to read in the csv and plot the dam levels for a quick assessment of any discrepencies in the data.
 
 **Thoughts**: I can't wait to start the next phase with python as i am forgetting the basics. so tired of waiting on my team to catch up so we can actually move forward with the db
+
+**Link(s) to work**
+
+---
+### Day 37: Febraury 7, Wednessday
+
+**Today's Progress**: as i wait for my colleagues to get up to speed i continued with the documentation.
+
+**Thoughts**: I get that i am a fast learner, but i can see one or two members struggling. helping them out also assists in better understanding of the informtion learned.
+
+**Link(s) to work**
+
+---
+### Day 38: Febraury 8, Thursday
+
+**Today's Progress**: found a book Natural language processing with python. just read the first two chapters
+
+**Thoughts**: all the books are written for python2 and are either being but are not currently for python3. getting the db done is taking too much time
+
+**Link(s) to work**
+
+---
+### Day 39: Febraury 9, Friday
+
+**Today's Progress**: I am creating views in the db, quite easy and i can see the usefulness.
+
+**Thoughts**: Everyone should be up to date in SQL, but i can see the confidence is lacking.
+
+**Link(s) to work**
+
+---
+### Day 40: Febraury 10, Saturday
+
+**Today's Progress**: rest day. Rahmas party, had all fuzzy kids with. after party by my place.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 41: Febraury 11, Sunday
+
+**Today's Progress**: reading up on openCV and looking for simple projects involving the raspi
+
+**Thoughts**: i have been exhausted lately but hope to find a good side project to inplement the other interesting things i plan to learn
+
+**Link(s) to work**
+
+---
+### Day 42: Febraury 12, Monday
+
+**Today's Progress**: completing the SQL test is very challenging. I got 97% which means one wrong answer. i can live with that.
+
+**Thoughts**: I mastered subqueries! after it 'clicked' i started using subqueries for everything instead of so many joins.
+
+**Link(s) to work**
+
+---
+### Day 43: Febraury 13, Tuesday
+
+**Today's Progress**: getting could at altering tables and inserting data into the tables.
+
+**Thoughts**: i saw a neat trick of saving interesting queries as views to 'view' later on.
+
+**Link(s) to work**
+
+---
+### Day 44: Febraury 14, Wednessday
+
+**Today's Progress**: I cleaned up the dam_stats table. using the graphs of the dam height and storage levels of each dam i could find in the data discrepencies and anomolies.
+
+**Thoughts**: I could easily correct the data in pandas but out facilitator says we should be just as adept in SQL to make the necessary changes
+
+**Link(s) to work**
+
+---
+### Day 45: Febraury 15, Thursday
+
+**Today's Progress**: I 3rd normalized a the population table, spliting it into population, population_areas and demographics.
+
+**Thoughts**: I understand how to go about linking the tables, expecially in creating foreign keys.
+
+**Link(s) to work**
+
+---
+### Day 46: Febraury 16, Friday
+
+**Today's Progress**: Crunch day for documentation of our database. creating views and adding the wastewater_temp table
+
+**Thoughts**: my SQL queries are good. i should recreate the database and do a proper job of it.
+
+**Link(s) to work**
+
+---
+### Day 47: Febraury 17, Saturday
+
+**Today's Progress**: nothing really progressed. I did create a more accurate Entity Relational Diagram of our Water_crisis database. kids party followed by an after party (somewhat) at my place.
+
+**Thoughts**: one of the few and well deserved rest days. it would of been better had i not been force to pick up the slack
+
+**Link(s) to work**
+
+---
+### Day 48: Febraury 18, Sunday
+
+**Today's Progress**: I reviewed the database documentation before giving up and handing in the incomplete and substandard team effort.
+
+**Thoughts**: I am really dissapointed in the team relying solely on me and not really caring on what needs to be done, never mind actually doing the work ;(
+
+**Link(s) to work**
+
+---
+### Day 49: Febraury 19, Monday
+
+**Today's Progress**: Today we started the "Analyze" sprint which will focus on Python. went over python basics and Numpy.
+
+**Thoughts**: 
+I picked up using lambda functions in map/filter. i used it in javascript but never actually used it in python. i used lambda in the .apply() in Pandas.
+**Link(s) to work**
+---
+HALF WAY! :balloons:
+---
+### Day 50: Febraury 20, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day : Febraury 7, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 37: Febraury , day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 37: Febraury , day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 37: Febraury 7, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**
 
