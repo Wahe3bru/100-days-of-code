@@ -313,6 +313,7 @@ Also the different formatting of the collumns and table, will need a thorough in
 **Thoughts**: Still recovering from yesterdays Batrun recce. went to CTFED.org's workshop on how to give a talk which will be helpfull later when i have to present.
 
 **Link(s) to work**
+
 ---
 ### Day 34: Febraury 4, Sunday
 
@@ -458,8 +459,9 @@ Also the different formatting of the collumns and table, will need a thorough in
 **Thoughts**: 
 I picked up using lambda functions in map/filter. i used it in javascript but never actually used it in python. i used lambda in the .apply() in Pandas.
 **Link(s) to work**
+
 ---
-HALF WAY! :balloons:
+### HALF WAY! :tada:
 ---
 ### Day 50: Febraury 20, day
 
