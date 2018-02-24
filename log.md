@@ -463,47 +463,47 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 ---
 ### HALF WAY! :tada:
 ---
-### Day 50: Febraury 20, day
+### Day 50: Febraury 20, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: finished NumPy and started on Pandas revision. switched to the statistics course for data science.
 
-**Thoughts**: 
-
-**Link(s) to work**
-
----
-### Day : Febraury 7, day
-
-**Today's Progress**: 
-
-**Thoughts**: 
+**Thoughts**: now is a good chance to get up to speed and improve my stats skills, which is my weakest skill.
 
 **Link(s) to work**
 
 ---
-### Day 37: Febraury , day
+### Day 51: Febraury 21, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: completed first test of python based on strings.
 
-**Thoughts**: 
-
-**Link(s) to work**
-
----
-### Day 37: Febraury , day
-
-**Today's Progress**: 
-
-**Thoughts**: 
+**Thoughts**: complete revision, and worked on semantic code and docstrings.
 
 **Link(s) to work**
 
 ---
-### Day 37: Febraury 7, day
+### Day 52: Febraury 22, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: picked up a bug :disappointed: no work done, recovery mode
 
-**Thoughts**: 
+**Thoughts**: spent half the night puking. spent the day resting and recovering.
+
+**Link(s) to work**
+
+---
+### Day 53: Febraury 23, Friday
+
+**Today's Progress**: Finish a  python test on lists. 
+
+**Thoughts**: a good revision on enumerate, splicing, indexing and list methods like sort vs sorted.
+
+**Link(s) to work**
+
+---
+### Day 54: Febraury 24, Saturday
+
+**Today's Progress**: learning _Introduction to Git for Data Science_ from datacamp
+
+**Thoughts**: will be implementing this in my work flow to speed up learning and experimenting in my projects
 
 **Link(s) to work**
 
