@@ -508,7 +508,86 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 **Link(s) to work**
 
 ---
+### Day 55: Febraury 25, Sunday
+
+**Today's Progress**: whole day spent helping out at cousins wedding, came home exhausted
+
+**Thoughts**: spent the day with family. great to break and be social. i plan to do an outing atleast every 2 weeks with the kids.
+
+**Link(s) to work**
+
+
+---
+### Day 56: Febraury 26, Monday
+
+**Today's Progress**: went through the training docs on using psycopg2 and querying postgreSQL db, saving the result to csv to be analysed in pandas. Teamwork coaching session to deal with awol team members.
+
+**Thoughts**: I'm hoping to learn useful techniques in dealing with issues that crop up in teams
+
+**Link(s) to work**
+
+
+---
+### Day 57: Febraury 27, Tuesday
+
+**Today's Progress**: spent most of the day analysing the water consumption dataset, using psychopg2. grouping data and creating graphs trying to prove the hypothesis that agriculture has a greater impact than residents.
+
+**Thoughts**: need to freshen up on plots especially seaborn. rehashing previous lessons and reinforcing pandas :thumbsup:
+
+**Link(s) to work**
+
+
+---
+### Day 58: Febraury 28, Wednesday
+
+**Today's Progress**: python coding challenge3 was a doosy. removing punctuation and story words counts in a dictionary with no imports.
+
+**Thoughts**: dictionary datatype i have worked with the least so involved a lot of googling. masterin the sorted() method :) 
+
+**Link(s) to work**
+
+
+---
+### Day 59: March 1, Thursday
+
+**Today's Progress**: Big BCX & EDSA event so half the day spent on hosting, the other half on completing the ddocuments for accreditation. I completed the intro to github on datacamp.
+
+**Thoughts**: since most of my work is on jupyter notebooks i haven't used github much. but i can still use it to keep the notebooks updated and for a resource later. plus now i have a reason to practise my github skills
+
+**Link(s) to work**
+
+
+---
+### Day 60: March 2, Friday
+
+**Today's Progress**: completing Seta accreditation, read up more on pseudocode and PEP8 and PEP257
+
+**Thoughts**: i need to learn more about unit tests
+
+**Link(s) to work**
+
+
+---
+### Day 61: March 3, Saturday
+
+**Today's Progress**: PiJam!
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
+---
+### Day : Febraury, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
 [ Template ]
+
+---
 ### Day : Febraury, day
 
 **Today's Progress**: 
