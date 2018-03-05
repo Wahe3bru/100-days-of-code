@@ -576,19 +576,27 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 
 **Link(s) to work**
 
+---
+### Day 62: March 4, Sunday
+
+**Today's Progress**: I have been looking for a photobooth project that i can use for a wedding. i always wanted to do a photobooth but instead of the standard four pictures, i wanted to generate a .gif. I also went over some seaborn plots such as joint and facet plots.
+
+**Thoughts**: there are alot of good implementations, but now i think i need to first create a basic one before implementing all my ideas
+
+**Link(s) to work**
 
 ---
-### Day : Febraury, day
+### Day 63: March 5, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Today was an interesting code challenge. take a file, after removing punctuation, create a dictionary of the words in the text whose values is a list of words that follows the key. Then another function using the dictionary, generates a two hundred word paragraph.
 
-**Thoughts**: 
+**Thoughts**: I'm getting quite profficient at using dictionaries. I was struggling abit with pandas tho. will have to practice abit more. or break up what i want to do to better implement it.
 
 **Link(s) to work**
 [ Template ]
 
 ---
-### Day : Febraury, day
+### Day 63: March 5, Monday
 
 **Today's Progress**: 
 
