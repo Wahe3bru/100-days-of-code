@@ -593,6 +593,24 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 **Thoughts**: I'm getting quite profficient at using dictionaries. I was struggling abit with pandas tho. will have to practice abit more. or break up what i want to do to better implement it.
 
 **Link(s) to work**
+
+---
+### Day 64: March 6, Tuesday
+
+**Today's Progress**: Spent over 5 hours with pandas analysing the water consumption tables. learned df['col'].isin() which has been super useful.
+
+**Thoughts**: I need to continually go over pandas and python. did some SQL and will need to freshen up.
+
+**Link(s) to work**
+
+---
+### Day 63: March 5, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
 [ Template ]
 
 ---
