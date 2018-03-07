@@ -604,6 +604,15 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 **Link(s) to work**
 
 ---
+### Day 65: March 7, Wednessday
+
+**Today's Progress**: Spent most of the day on python and then started the python database test. under pressure to get most of the questions done i kinda relied more on SQL than python.
+
+**Thoughts**: I will definitely be concentrating on python and specifically pandas. focusing on creating DataFrames from SQL queries.
+
+**Link(s) to work**
+
+---
 ### Day 63: March 5, Monday
 
 **Today's Progress**: 
@@ -611,6 +620,26 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 **Thoughts**: 
 
 **Link(s) to work**
+
+---
+### Day 63: March 5, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 63: March 5, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
 [ Template ]
 
 ---
