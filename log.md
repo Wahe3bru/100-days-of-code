@@ -613,25 +613,53 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 **Link(s) to work**
 
 ---
-### Day 63: March 5, Monday
+### Day 66: March 8, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: spent most of the day on the python Analyze DB test. completed the intro to shell commands course in dataCamp.
 
-**Thoughts**: 
-
-**Link(s) to work**
-
----
-### Day 63: March 5, Monday
-
-**Today's Progress**: 
-
-**Thoughts**: 
+**Thoughts**: I didn't know the real utility of working with the shell. i will try to incorporate more the command line / terminal till it becomes second nature.
 
 **Link(s) to work**
 
 ---
-### Day 63: March 5, Monday
+### Day 67: March 9, Friday
+
+**Today's Progress**: Today was the much hyped hackathon. finished half of it. toughest coding challenge yet
+
+**Thoughts**: I am impressed with my thinking through and completing algorithms. To complete the second half of each question required the use of generators. i solved two, but needed to rethink the algorithm with generators and memory optimization in mind.
+
+**Link(s) to work**
+
+---
+### Day 68: March 10, Saturday
+
+**Today's Progress**: not much done. some pandas revision and revising the way to query data from aws db and save it as a pandas df.
+
+**Thoughts**: I think taking one chill is really good for me. i would love relaxing or doing something fun instead of life dictating what to do in my free time. today was fun though.
+
+**Link(s) to work**
+
+---
+### Day 69: March 11, Sunday
+
+**Today's Progress**: redid my jupyter notebooks to query the aws db and create the df to work of of, instead of the csv files created from the queries of local db and aws.
+
+**Thoughts**: i still have to do the query in SQL, then copy the syntax over and correct for python. my next goal should be to used psychopg2 better and also learn SQLAlchemy as well.
+
+**Link(s) to work**
+
+---
+### Day 70: March 12, Monday
+
+**Today's Progress**: completed my redoing on the jupyter notebooks, basically neatening it up. spent some time completing my vision board type slideshow for the couching session. Also learning PowerBI desktop complete intro course as we will be using that to build our dashboard for the presentation.
+
+**Thoughts**: I have really out there goals but at the same time quite simple. it doesn't seem highly ambitious career wise, but the completion of my dream work would litereally change the environment around me. Both Human and natural geography.
+
+**Link(s) to work**
+
+
+---
+### Day 71: March 13, Tuesday
 
 **Today's Progress**: 
 
@@ -639,6 +667,25 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 
 **Link(s) to work**
 
+
+---
+### Day 6: March , day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
+---
+### Day 6: March , day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
 
 [ Template ]
 
