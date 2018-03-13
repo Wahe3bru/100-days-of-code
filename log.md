@@ -661,15 +661,15 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 ---
 ### Day 71: March 13, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: I finally completed the unsupervised learning course of DataCamp. Focused on statistics, learning about distributions and the standardized normal.
 
-**Thoughts**: 
+**Thoughts**: I've been so busy lately that i have neglected the datsci track of dataCamp, though i have used the website for SQL, Git and Bash. definitely getting my monies worth!
 
 **Link(s) to work**
 
 
 ---
-### Day 6: March , day
+### Day 72: March 14, Wednesday
 
 **Today's Progress**: 
 
