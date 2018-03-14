@@ -671,9 +671,10 @@ I picked up using lambda functions in map/filter. i used it in javascript but ne
 ---
 ### Day 72: March 14, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: not feeling too great so left early. finished compiling our jupyter notebook before i left.
+did a chapter on estimators and estimates in the stats for datsci course. Also started the Deep Learning course on DataCamp.
 
-**Thoughts**: 
+**Thoughts**: The deep learning course so far (halfway through chapter 2) is very interesting. understading more the lectures of Andrew Ng course, although i didn't get very far into his course. hopefuly complete it after i'm done with EDSA
 
 **Link(s) to work**
 
