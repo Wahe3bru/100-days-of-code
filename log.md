@@ -680,18 +680,18 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 
 
 ---
-### Day 6: March , day
+### Day 73: March 15, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: going through python tutorials in stats from Athena. I completed the three sections on hypothesis testing in stats for datsci. still not feeling hundreds, but went to the MIIA meetup about AlphaZero and deep learning.
 
-**Thoughts**: 
+**Thoughts**: Once i am caught up in my stats i want to learn the scipy library and learn ro model the stats with python.
 
 **Link(s) to work**
 
 [ Template ]
 
 ---
-### Day 63: March 5, Monday
+### Day 7: March 5, day
 
 **Today's Progress**: 
 
