@@ -684,16 +684,69 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 
 **Today's Progress**: going through python tutorials in stats from Athena. I completed the three sections on hypothesis testing in stats for datsci. still not feeling hundreds, but went to the MIIA meetup about AlphaZero and deep learning.
 
-**Thoughts**: Once i am caught up in my stats i want to learn the scipy library and learn ro model the stats with python.
+**Thoughts**: Once i am caught up in my stats i want to learn the scipy library and learn to model the stats with python.
+
+**Link(s) to work**
+
+---
+### Day 74: March 16, Friday
+
+**Today's Progress**: Completed the Stats for datsci course. really interesting learning about hypothesis testing and regression analysis. started the Deep learning course on DataCamp.
+
+**Thoughts**: I need to master the basic stats to fully develop as a datscientist. Also need to complete the basics of maths needed for Deep Learning.
+
+**Link(s) to work**
+
+---
+### Day 75: March 17, Saturday
+
+**Today's Progress**: First Saturday I could relax and take it easy. Learned about backpropagation and interested in learning keras. though it will have to wait.
+
+**Thoughts**: Second day i woke up with the same headache! guess the cycle is starting again
+
+**Link(s) to work**
+
+---
+### Day 76: March 18, Sunday
+
+**Today's Progress**: Cousins wedding today, ruby in the wedding. no progress.
+
+**Thoughts**: girls had fun, it was great seeing them enjoy themselves.
+
+**Link(s) to work**
+
+---
+### Day 77: March 19, Monday
+
+**Today's Progress**: I completed the Hypothesis testing test. i did it mostly through the statician way, using google sheets for the linear regression questions. my colleague figures some of the scipy methods.
+
+**Thoughts**: i will have to redo the test as well as learn to do the stats with python.
+
+**Link(s) to work**
+
+---
+### Day 78: March 20, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+---
+### Day 74: March 16, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**
 
 [ Template ]
 
 ---
-### Day 7: March 5, day
+### Day 74: March 16, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Completed the Stats for datsci course. really interesting learning about hypothesis testing and regression analysis.
 
 **Thoughts**: 
 
