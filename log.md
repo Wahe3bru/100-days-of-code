@@ -727,13 +727,14 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 78: March 20, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: I finished my part of the Dashboard in PowerBI. I completed the Query editor section and half way through the data modelling section of the *PowerBI complete intro* course
 
-**Thoughts**: 
+**Thoughts**: not feeling great today so left early. did my my day of the 100 tho :smile:
 
 **Link(s) to work**
+
 ---
-### Day 74: March 16, Friday
+### Day 79: March 21, Wednesday
 
 **Today's Progress**: 
 
@@ -746,7 +747,7 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 74: March 16, Friday
 
-**Today's Progress**: Completed the Stats for datsci course. really interesting learning about hypothesis testing and regression analysis.
+**Today's Progress**: 
 
 **Thoughts**: 
 
