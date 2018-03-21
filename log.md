@@ -736,6 +736,33 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 79: March 21, Wednesday
 
+**Today's Progress**: completed section 4 and 5 of PowerBI complete intro. also completed the build deep learning model with keras chapter on DataCamp. completed the reverse string problem.
+
+**Thoughts**: section 6 of the PowerBi intro course is geared more for pro/premium users. will most likely skip it for now and go over it later for completeness
+
+**Link(s) to work**
+
+---
+### Day 80: March 22, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 81: March 23, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 82: March 24, Saturday
+
 **Today's Progress**: 
 
 **Thoughts**: 
