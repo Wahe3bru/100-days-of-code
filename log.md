@@ -736,7 +736,7 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 79: March 21, Wednesday
 
-**Today's Progress**: completed section 4 and 5 of PowerBI complete intro. also completed the build deep learning model with keras chapter on DataCamp. completed the reverse string problem.
+**Today's Progress**: completed section 4 and 5 of *PowerBI complete intro*. also completed the build deep learning model with keras chapter on DataCamp. completed the reverse string problem.
 
 **Thoughts**: section 6 of the PowerBi intro course is geared more for pro/premium users. will most likely skip it for now and go over it later for completeness
 
@@ -745,9 +745,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 80: March 22, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: I found ThinkStats and completed chapter 1. there's a workshop course based off of it that i will complete afterwards as a revision. Completed most of the *PowerBI complete intro* course, leaving the advanced visuals section for another time as that is more to do with webdev than datsci. comlpeting *Power BI A-Z: Hands-On Power BI Training For Data Science!*, last two sections left.
 
-**Thoughts**: 
+**Thoughts**: really happy i came across the stats book. will dividing my time between mastering stats and python by doing the projects/algorithms. i need to divide the course into chunks for me to complete in 45 minute windows.
 
 **Link(s) to work**
 
@@ -762,6 +762,33 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 
 ---
 ### Day 82: March 24, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 83: March 25, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 84: March 26, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 85: March 27, Tuesday
 
 **Today's Progress**: 
 
