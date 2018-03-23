@@ -754,9 +754,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 81: March 23, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Completed *Power BI A-Z: Hands-On Power BI Training For Data Science!*. finished chapter 2: Distributions of ThinkStats2
 
-**Thoughts**: 
+**Thoughts**: I looked at the solutions of the hypothesis testing test and it is super easy using the scipy and numpy libraries. knowing the theory behind the stats is key to using the libraries.
 
 **Link(s) to work**
 
