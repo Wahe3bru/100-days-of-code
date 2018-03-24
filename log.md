@@ -763,9 +763,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 82: March 24, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: another wedding. manage to get home around 8pm, so managed to finish 3rd chapter of *ThinkStats2* dealing with probability mass functions. finished the *pig_latin* exercise of text projects.
 
-**Thoughts**: 
+**Thoughts**: I wanted to expand the pig_latin exercise to include coding a sentence but i need to put Ruby to sleep so had to postpone that. will finish it tomorrow, should be pretty easy. split the sentence and then loop through each word using pig_latin. also need to finish the chapter3 exercises of ThinkStats2
 
 **Link(s) to work**
 
