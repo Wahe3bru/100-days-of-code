@@ -772,9 +772,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 83: March 25, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: I watched a pycon2015 lecture on inferential stats with pandas, np and scipy. found 2 websites with nice notes on scipy.stats
 
-**Thoughts**: 
+**Thoughts**: I plan to create a jupyter notebook on scipy.stats and share it with the class. hopefully create more shorter notebooks with summaries of tricks i have learned, or bits of code that would be useful.
 
 **Link(s) to work**
 
