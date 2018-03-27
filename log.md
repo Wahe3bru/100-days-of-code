@@ -781,14 +781,43 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 84: March 26, Monday
 
+**Today's Progress**: Spent most of the day on the presentation and dashboard.
+
+**Thoughts**: I'm glad that it is nearly over! it has been hard working on things and figuring it out along the way coupled with individual outputs in a very short window
+
+**Link(s) to work**
+
+---
+### Day 85: March 27, Tuesday
+
+**Today's Progress**: I worked mostly on the Dashboard. finished _Count Words in a String_ challenge in Projects.
+
+**Thoughts**: The next project i will definitely make sure that our db is proper. it makes it so much easier to do analysis and graphs.
+
+**Link(s) to work**
+
+---
+### Day 86: March 28, Wednesday
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**
 
+
 ---
-### Day 85: March 27, Tuesday
+### Day 87: March 29, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
+---
+### Day 88: March 30, Friday
 
 **Today's Progress**: 
 
