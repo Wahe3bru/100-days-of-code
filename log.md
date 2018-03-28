@@ -799,9 +799,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 86: March 28, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Spent the day finishing the dashboard. helped abit with the presentation slides
 
-**Thoughts**: 
+**Thoughts**: i am really happy with the dashboard. will need to really learn how to make it work in the next project
 
 **Link(s) to work**
 
