@@ -809,9 +809,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 87: March 29, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Final day of the CTWCsprint. dashboard hand in and presentation.
 
-**Thoughts**: 
+**Thoughts**: I learned alot and hopeully will take the lessons learned and improve for the next.
 
 **Link(s) to work**
 
@@ -819,16 +819,118 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 88: March 30, Friday
 
+**Today's Progress**: Finished the final section of Deep Learning with Keras on DataCamp. went over a blog on a talk about scipy. need to summarize the scipy stats functions for me and to share with others.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 89: March 31, Saturday
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**
 
+---
+### Day 90: April 1, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 91: April 2, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 92: April 3, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 93: April 4, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
+---
+### Day 94: April 5, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 95: April 6, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 96: April 7, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 97: April 8, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+---
+### Day 98: April 9, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+---
+### Day 99: April 10, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+---
+### 100 Day Review
+
+**Progress**: 
+
+**Thoughts**: 
+
+
 [ Template ]
 
 ---
-### Day 74: March 16, Friday
+### Day 9: April, day
 
 **Today's Progress**: 
 
