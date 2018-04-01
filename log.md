@@ -828,18 +828,18 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 89: March 31, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: I started DataCamps _Visualizing Time Series Data in Python_ and completed chapter 1. went over the Machine Learning notebooks and improved on previous code
 
-**Thoughts**: 
+**Thoughts**: came across jupyter notebook plus reveal.js and RISE for presentations from the notebook. looks reaaly interesting and read up on it. i plan to implement it with the upcoming sprint.
 
 **Link(s) to work**
 
 ---
 ### Day 90: April 1, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: I am now on chapter 4 of _Visualizing Time Series Data in Python_. I researched abit  on reveal.js itself for creating presentations.
 
-**Thoughts**: 
+**Thoughts**: I figured that the next sprint will deal with the stock exchange. that will require dealing with time series data, so getting ahead so i can focus on the project itself and not on learning the tools.
 
 **Link(s) to work**
 
