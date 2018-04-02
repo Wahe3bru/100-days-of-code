@@ -846,7 +846,7 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 91: April 2, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Finished _Visualizing Time Series Data in Python_ and has selected _Manipulating Time Series Data in Python_ as the next course. There's an analyse time series and one specifically on finance that will be a real help in the next sprint. Found an awesome talk PyCon2016 on time series and forked her talk's repository which included notebooks to go through.should be really beneficial!
 
 **Thoughts**: 
 
