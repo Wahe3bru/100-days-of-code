@@ -855,9 +855,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 92: April 3, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: I went over the time series notes of the last two days. found more recent notebooks of pycon2017 time series talk. Started _Manipulating Time Series Data in Python_, nearly finished the 1st chapter.
 
-**Thoughts**: 
+**Thoughts**: i wasn't really keen on dealing with finance but i can see the benefit of time series.
 
 **Link(s) to work**
 
