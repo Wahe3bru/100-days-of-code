@@ -864,9 +864,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 93: April 4, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: rediscovered CodeWars.com my login still works :) and started doing 3 problems. realised i should save my solutions, with one or two iterations. Then come back to refactor it using experience later on.
 
-**Thoughts**: 
+**Thoughts**: taking it easy this week as i rest up.
 
 **Link(s) to work**
 
@@ -874,9 +874,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 94: April 5, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Had a chill day. did 3 problems in codewars and put 2 in notebook with my solution and lessons learned from another interesting solution
 
-**Thoughts**: 
+**Thoughts**: i learned alot reviewing others' solutions. i will make this a daily habit.
 
 **Link(s) to work**
 
