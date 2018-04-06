@@ -883,9 +883,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 95: April 6, Friday
 
-**Today's Progress**: 
+**Today's Progress**: spent half the day doing code wars. started writing it out more the lessons learned, saving the iterations and explaining how using a specific function or code could/does improve the overall code.
 
-**Thoughts**: 
+**Thoughts**: I ranked up doing the easy ones. i should do one easy as a warm up and then a harder one to really test. also i should learn to use reg ex or re library. will come in handy with data cleaning
 
 **Link(s) to work**
 
