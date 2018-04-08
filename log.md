@@ -892,7 +892,7 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 96: April 7, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: I finished the list comprehension chapter from Colt steele's course. watched the resampling section from Aileen and did some codewars
 
 **Thoughts**: 
 
@@ -901,9 +901,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 97: April 8, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: reading up on some time series analysis. did 2 katas from code wars, one incomplete ;(
 
-**Thoughts**: 
+**Thoughts**: I think noting alternative solutions and explaining them will help in picking up some tricks. going through Aileens lecture and starting the dictionary section of Colts
 
 ---
 ### Day 98: April 9, Monday
