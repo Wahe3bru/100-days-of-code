@@ -908,9 +908,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 98: April 9, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Fininshed preprocessing from _Machine learning AZ_, nearly completed linear regression from _Python for Data Science and Machine Learning Bootcamp_
 
-**Thoughts**: 
+**Thoughts**: too many distractions today to do much deep work. tomorow i will dive deeper into the data and practice some of the linear regression
 
 ---
 ### Day 99: April 10, Tuesday
