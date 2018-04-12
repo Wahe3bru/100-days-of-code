@@ -915,14 +915,21 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### Day 99: April 10, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: completed linear regression from _Python for Data Science and Machine Learning Bootcamp_ and _Machine learning AZ_ reading up on financial basics
 
-**Thoughts**: 
+**Thoughts**: This sprint is mostly about linear regression. nothing much on time series :( i will be completing my courses on that on DataCamp regardless
 
 ---
 ### 100 Day Review
 
 **Progress**: 
+
+**Thoughts**: 
+
+---
+### 100.1 April 11, Wednesday 
+
+**Progress**: Completed 3 problems on codewars, completed the train notebook on prepping stock market data for linReg. got 3 extra data sources for extra features
 
 **Thoughts**: 
 
