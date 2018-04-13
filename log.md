@@ -922,22 +922,71 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### 100 Day Review
 
-**Progress**: 
+**Progress**: 92/100 Not bad considering that I have had above normal social commitments and been sick 3 times with a tummy bug :(
 
 **Thoughts**: 
 
 ---
-### 100.1 April 11, Wednesday 
+### 100.1: April 11, Wednesday 
 
 **Progress**: Completed 3 problems on codewars, completed the train notebook on prepping stock market data for linReg. got 3 extra data sources for extra features
 
 **Thoughts**: 
 
+---
+### 100.2: April 12, Thursday 
 
+**Progress**: Had meetings that interupted my day. managed to complete half of _Manipulating Time Series Data in Python_ and did 2 problems in CodeWars
+
+**Thoughts**: waiting 
+
+---
+### 100.3: April 13, Friday 
+
+**Progress**: completed train doc on lin reg. and spent most of the morning merging all data to df_5 
+
+**Thoughts**: will need to removed redundant features and begin training this weekend
+
+---
+### 100.4: April 14, Saturday 
+
+**Progress**: 
+
+**Thoughts**: 
+
+---
+### 100.5: April 15, Sunday 
+
+**Progress**: 
+
+**Thoughts**: 
+
+---
+### 100.6: April 16, Monday 
+
+**Progress**: 
+
+**Thoughts**: 
+
+---
+### 100.7: April 17, Tuesday 
+
+**Progress**:
+
+**Thoughts**: 
+
+---
+### 100.8 April 18, Wednesday 
+
+**Progress**:
+
+**Thoughts**: 
+
+---
 [ Template ]
 
 ---
-### Day 9: April, day
+### Day 0: month, day
 
 **Today's Progress**: 
 
