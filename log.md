@@ -950,9 +950,9 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 ---
 ### 100.4: April 14, Saturday 
 
-**Progress**: 
+**Progress**: reading up on regularization, lasso, ridge and elastic. read up on Bayesian regression.might add that to the report. also did two problems on CodeWars
 
-**Thoughts**: 
+**Thoughts**: I will prolly use elastic regularization as i can choose L1 or inbetween L1&L2
 
 ---
 ### 100.5: April 15, Sunday 
