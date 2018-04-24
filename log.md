@@ -983,15 +983,4 @@ did a chapter on estimators and estimates in the stats for datsci course. Also s
 **Thoughts**: 
 
 ---
-[ Template ]
 
----
-### Day 0: month, day
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**
-1. [ websitename ](https://www.adress)
-2. [ websitename ](https://www.adress)
