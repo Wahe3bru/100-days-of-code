@@ -1,3 +1,7 @@
+# 100 Days Of Code - Log
+
+## R2 2018
+---
 ### Day 0: April 24, Tuesday
 
 **Today's Progress**: Spent most of the day reading up on regression. trying to prove autocorrelation, collinearity and 
