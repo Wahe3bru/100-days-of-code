@@ -14,9 +14,27 @@ creating graphs for the presentation.
 ---
 ### Day 1: April 25, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Completed all the models, focus on SVR especially the rbf and poly kernels. helped Apollo team member with a function that was really interesting.
 
-**Thoughts**: 
+**Thoughts**: need to get back to codewars, or writing summary articles.
+
+**Link(s) to work**
+
+---
+### Day 2: April 26, Thursday
+
+**Today's Progress**: completed presentation slides, performed presentation and completed the report.
+
+**Thoughts**: luckily i had Kat or this sprint would of been an epic fail.
+
+**Link(s) to work**
+
+---
+### Day 3: April 27, Friday
+
+**Today's Progress**: completed chapter 4 of DS in Python
+
+**Thoughts**: I will complete this book, but first focus on on classifiers
 
 **Link(s) to work**
 
