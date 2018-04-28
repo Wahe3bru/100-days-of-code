@@ -38,6 +38,15 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 4: April 28, Saturday
+
+**Today's Progress**: Chapter 2 of Intro to ML with Python.Supervised Machine Learning section. went over k-nearest neighbours and Linear Models.
+
+**Thoughts**: I will start a notebook with a summary of each algorith, the benefits and when to use. as well as sample code and pipelines.
+
+**Link(s) to work**
+
 
 ---
 [ Template ]
