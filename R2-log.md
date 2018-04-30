@@ -47,7 +47,23 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 5: April 29, Sunday
 
+**Today's Progress**: Wrote summaries of k-NN and Decision Trees
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 6: April 30, Monday
+
+**Today's Progress**: completed Network analysis thereby completing the datsci track of DataCamp!! 
+
+**Thoughts**: 
+
+**Link(s) to work**
 ---
 [ Template ]
 
