@@ -41,7 +41,7 @@ creating graphs for the presentation.
 ---
 ### Day 4: April 28, Saturday
 
-**Today's Progress**: Chapter 2 of Intro to ML with Python.Supervised Machine Learning section. went over k-nearest neighbours and Linear Models.
+**Today's Progress**: Chapter 2 of _Intro to ML with Python_.Supervised Machine Learning section. went over k-nearest neighbours and Linear Models.
 
 **Thoughts**: I will start a notebook with a summary of each algorith, the benefits and when to use. as well as sample code and pipelines.
 
@@ -50,7 +50,7 @@ creating graphs for the presentation.
 ---
 ### Day 5: April 29, Sunday
 
-**Today's Progress**: Wrote summaries of k-NN and Decision Trees
+**Today's Progress**: Wrote summaries of k-NN and Decision Trees as well as Ensemble methods
 
 **Thoughts**: 
 
@@ -61,10 +61,29 @@ creating graphs for the presentation.
 
 **Today's Progress**: completed Network analysis thereby completing the datsci track of DataCamp!! 
 
-**Thoughts**: 
+**Thoughts**: It is a really good track. found it very useful, but revision is key as I forgotten alot of it. Luckily it is easier to review than learn from scratch :)
 
 **Link(s) to work**
 ---
+
+---
+### Day 7: May 1, Tuesday (Public Holiday)
+
+**Today's Progress**: Went through Linear models and SVMs in supervised learning in _Intro to ML with Python_
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 0: month, day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
 [ Template ]
 
 ---
