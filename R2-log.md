@@ -76,7 +76,34 @@ creating graphs for the presentation.
 **Link(s) to work**
 
 ---
-### Day 0: month, day
+### Day 8: May 2, Wednessday
+
+**Today's Progress**: did two problems in CodeWars. Went over GridSearch, cross-validation and Pipeline.
+
+**Thoughts**: I am hoping to master GridSearch and Pipeline to speed up modeling.
+
+**Link(s) to work**
+
+---
+### Day 9: May 3, Thursday
+
+**Today's Progress**: summarizing Linear models for regression and classifying. Started the _NLP in python_ course
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 10: May 4, Friday
+
+**Today's Progress**: finished chapter on _sentiment analyzer_
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 11: May 5, Saturday
 
 **Today's Progress**: 
 
