@@ -105,11 +105,39 @@ creating graphs for the presentation.
 ---
 ### Day 11: May 5, Saturday
 
+**Today's Progress**: Started the NLP course in Udemy
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 12: May 6, Sunday
+
+**Today's Progress**: Completed _NLP in Python_ from DataCamp
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 13: May 7, Monday
+
+**Today's Progress**: Completed the NLP course in Udemy
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 14: May 8, Tuesday
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**
+
 
 [ Template ]
 
