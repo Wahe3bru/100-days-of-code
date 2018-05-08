@@ -116,7 +116,7 @@ creating graphs for the presentation.
 
 **Today's Progress**: Completed _NLP in Python_ from DataCamp
 
-**Thoughts**: 
+**Thoughts**: It'sa very good intro course. There's alot to learn on the topic. I need to find a thorough course on NLP
 
 **Link(s) to work**
 
@@ -125,16 +125,16 @@ creating graphs for the presentation.
 
 **Today's Progress**: Completed the NLP course in Udemy
 
-**Thoughts**: 
+**Thoughts**: This course doesn't leave one with much confidence in coding nlp techniques. will go over the nlp sections in other courses
 
 **Link(s) to work**
 
 ---
 ### Day 14: May 8, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Completed NLP sections in both the DatSci AZ and DatSci ML Bootcamp.
 
-**Thoughts**: 
+**Thoughts**: I will start implementing some nlp processing tomorrow.
 
 **Link(s) to work**
 
