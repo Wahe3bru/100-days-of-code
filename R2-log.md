@@ -138,6 +138,23 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 15: May 9, Wednesday
+
+**Today's Progress**: Completed kNN, SVM and kernel SVM sections in both the DatSci AZ
+
+**Thoughts**: starting with regex section in Colts Python3 Udemy course.
+
+**Link(s) to work**
+
+---
+### Day 16: May 10, Thursday
+
+**Today's Progress**: Completed the RegEx section of Colt. Completed the Linear Classifiers in Python course in DataCamp
+
+**Thoughts**: Tomorrow  I will put my knew regex knowlede to preprocess the  mbti text dataset.
+
+**Link(s) to work**
 
 [ Template ]
 
