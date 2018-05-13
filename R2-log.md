@@ -177,7 +177,7 @@ creating graphs for the presentation.
 ---
 ### Day 19: May 13, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Completed the rest of the plotly charts and moving on to actual Dash. Completed the third section of Time Series analyses of DataCamp.
 
 **Thoughts**: 
 
