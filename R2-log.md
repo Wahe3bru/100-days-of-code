@@ -156,6 +156,34 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 17: May 11, Friday
+
+**Today's Progress**: I wrote all the individual functions for creating each feature in the dataset, then combined them all in a single function. regex really usefull.
+
+**Thoughts**: I found a great blog that had regex exercises. will include them in my summary to drill the concepts into memmory
+
+**Link(s) to work**
+
+---
+### Day 18: May 12, Saturday
+
+**Today's Progress**: Finished summary of kernel SVM, worked on plotly charts; bar charts.
+
+**Thoughts**: west through the layout lectures of Dash. it is not complocated, although the syntax is intimidating with all the nested dictionaries.
+
+**Link(s) to work**
+
+---
+### Day 19: May 13, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+
 [ Template ]
 
 ---
