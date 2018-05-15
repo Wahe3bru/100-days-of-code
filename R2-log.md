@@ -183,6 +183,51 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 20: May 14, Monday
+
+**Today's Progress**: went over Dash layout, html and core components. Created my own stopwords list for the Personality profile sprint. and started thinking about pipelines and working out a strategy.
+
+**Thoughts**: Dash is very interesting. will look into hosting the server on raspi, as well as finding a great project to practive what i have learned.
+
+**Link(s) to work**
+
+---
+### Day 21: May 15, Tuesday
+
+**Today's Progress**: Did the baseline result using countvectorizer and multinomialNB. played with a few parameters and results were dismal. Researched FeatureUnion, featureTransformer to join my created features along with countvectorizer to train the model.
+
+**Thoughts**: I am probably going well above what's expected but learning about featureUnion is helpful in expanding my knowledge.
+
+**Link(s) to work**
+
+---
+### Day 22: May 16, Wednessday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 23: May 17, Thursday (Fasting starts)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 24: May 18, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
 
 [ Template ]
 
