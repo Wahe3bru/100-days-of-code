@@ -195,7 +195,7 @@ creating graphs for the presentation.
 ---
 ### Day 21: May 15, Tuesday
 
-**Today's Progress**: Did the baseline result using countvectorizer and multinomialNB. played with a few parameters and results were dismal. Researched FeatureUnion, featureTransformer to join my created features along with countvectorizer to train the model.
+**Today's Progress**: Did the baseline result using countvectorizer and multinomialNB. played with a few parameters and results were dismal. Researched FeatureUnion, functionTransformer to join my created features along with countvectorizer to train the model.
 
 **Thoughts**: I am probably going well above what's expected but learning about featureUnion is helpful in expanding my knowledge.
 
@@ -204,9 +204,9 @@ creating graphs for the presentation.
 ---
 ### Day 22: May 16, Wednessday
 
-**Today's Progress**: 
+**Today's Progress**: I built functions to get numerical and text data used functionTransformer to be able to use them in a pipeline. built text and numerical pipeline and merged them with FeatureUnion into main pipeline
 
-**Thoughts**: 
+**Thoughts**: after successfully creating main pipeline, had errors with the text part after creating y_labels (therefore creating binary labels)
 
 **Link(s) to work**
 
