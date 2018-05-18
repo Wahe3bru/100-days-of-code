@@ -213,9 +213,9 @@ creating graphs for the presentation.
 ---
 ### Day 23: May 17, Thursday (Fasting starts)
 
-**Today's Progress**: 
+**Today's Progress**: struggled half the day trying to solve the main pipeline issue. gave up after mega headache.
 
-**Thoughts**: 
+**Thoughts**: starting over, concentrating on just nlp for the model. then include numerical features.
 
 **Link(s) to work**
 
