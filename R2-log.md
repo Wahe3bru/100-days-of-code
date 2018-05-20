@@ -222,6 +222,33 @@ creating graphs for the presentation.
 ---
 ### Day 24: May 18, Friday
 
+**Today's Progress**: not feeling very well, went over Dash and started a new course on algorithms and interview questions
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 25: May 19, Saturday
+
+**Today's Progress**: went over Dash, built an interactive display using a range slider and outputting to a div.
+
+**Thoughts**: I'm thinking of reviving the dc enviro project using dash instead of highcharts. I'm using flask anyway.
+
+**Link(s) to work**
+
+---
+### Day 26: May 20, Sunday
+
+**Today's Progress**: got a working model using Random Forest. basic settings, need to do gridsearch on hyperparameters.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 27: May 21, Monday
+
 **Today's Progress**: 
 
 **Thoughts**: 
