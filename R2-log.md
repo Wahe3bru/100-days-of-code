@@ -249,12 +249,29 @@ creating graphs for the presentation.
 ---
 ### Day 27: May 21, Monday
 
+**Today's Progress**: started over building a function to run through all the pipelines and taking into account the time to train. Next is working on gridsearch to fine tune the parameters.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+---
+### Day 28: May 22, Tuesday
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**
 
+---
+### Day 29: May, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
 
 [ Template ]
 
