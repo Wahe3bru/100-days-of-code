@@ -256,16 +256,16 @@ creating graphs for the presentation.
 **Link(s) to work**
 
 ---
-### Day 28: May 22, Tuesday
+### Day 28: May 22 - 29, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: working hard on the personality sprint project. all fell apart but was able to plan ~a~ ~b~ ~c~ d it and managed to complete and meet the deadline!
 
-**Thoughts**: 
+**Thoughts**: I learned so much this sprint but prolly performed the worst ironically...
 
 **Link(s) to work**
 
 ---
-### Day 29: May, Wednesday
+### Day 30: May, Wednesday
 
 **Today's Progress**: 
 
