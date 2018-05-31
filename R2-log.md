@@ -267,7 +267,7 @@ creating graphs for the presentation.
 ---
 ### Day 30: May, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Spent most of the day prepping the presentation, creating wordcloud, and gaining insights into the data
 
 **Thoughts**: 
 
