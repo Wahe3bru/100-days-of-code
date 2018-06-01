@@ -273,6 +273,24 @@ creating graphs for the presentation.
 
 **Link(s) to work**
 
+---
+### Day 31: May, Thursday
+
+**Today's Progress**: Presentation day! went well. last minute prep and nlp insights gathering really helped. Started The Tensorflow Udemy course and finished the intro.
+
+**Thoughts**: I was exhausted, individual project stress took its toll. then two of us carrying the rest of the team meant added pressure and stress. glad it's over.
+
+**Link(s) to work**
+
+---
+### Day 1: June, Friday
+
+**Today's Progress**: Nearly completed _Tensorflow basicss_ and starting the exercises.
+
+**Thoughts**: The estimator api seems really simple. will implement the previous classification problem using tensorflow estimator api.
+
+**Link(s) to work**
+
 [ Template ]
 
 ---
