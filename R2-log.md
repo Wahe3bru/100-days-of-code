@@ -265,7 +265,7 @@ creating graphs for the presentation.
 **Link(s) to work**
 
 ---
-### Day 30: May, Wednesday
+### Day 30: May 30, Wednesday
 
 **Today's Progress**: Spent most of the day prepping the presentation, creating wordcloud, and gaining insights into the data
 
@@ -274,7 +274,7 @@ creating graphs for the presentation.
 **Link(s) to work**
 
 ---
-### Day 31: May, Thursday
+### Day 31: May 31, Thursday
 
 **Today's Progress**: Presentation day! went well. last minute prep and nlp insights gathering really helped. Started The Tensorflow Udemy course and finished the intro.
 
@@ -283,13 +283,28 @@ creating graphs for the presentation.
 **Link(s) to work**
 
 ---
-### Day 1: June, Friday
+### Day 32: June 1, Friday
 
 **Today's Progress**: Nearly completed _Tensorflow basicss_ and starting the exercises.
 
 **Thoughts**: The estimator api seems really simple. will implement the previous classification problem using tensorflow estimator api.
 
 **Link(s) to work**
+
+---
+### Day 33: June 2, Saturday
+
+**Today's Progress**: Completed Tensorflow basics and completed the reg and classification exercises.
+
+**Thoughts**: 
+
+---
+### Day 34: June 3, Sunday
+
+**Today's Progress**: Started on CNN, convoluted neural networks. need to go over the example.
+
+**Thoughts**: 
+
 
 [ Template ]
 
