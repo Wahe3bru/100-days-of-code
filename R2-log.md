@@ -303,7 +303,14 @@ creating graphs for the presentation.
 
 **Today's Progress**: Started on CNN, convoluted neural networks. need to go over the example.
 
-**Thoughts**: 
+**Thoughts**: I started exploring the movies dataset and need to plan the layout of the dashboard.
+
+---
+### Day 35: June 4, Monday
+
+**Today's Progress**: completed the first two sections of Kaggles Learn Pandas section; reading and creating df's, and indexing and selecting.
+
+**Thoughts**: I plan to complete all 7 by the end of review week
 
 
 [ Template ]
