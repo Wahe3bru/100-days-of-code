@@ -312,6 +312,35 @@ creating graphs for the presentation.
 
 **Thoughts**: I plan to complete all 7 by the end of review week
 
+---
+### Day 36: June 4, Tuesday
+
+**Today's Progress**: I've gone through the CNN section of the tensorflow course. gone through the exercise solution. read ISLR chapter 8; trees and ensembles
+
+**Thoughts**: I hope to build an initial model early on, so that i can trial others and iterate through to the winning model
+
+
+---
+### Day 37: June 4, Wednesday
+
+**Today's Progress**: I completed 27 exercises on functions and another 3 on dictionaries
+
+**Thoughts**: picked up cool tricks, 
+
+---
+### Day 38: June 5, Thursday
+
+**Today's Progress**: I completed all exercises on  dictionaries, wrote a notebook for reference and reviewed lists and sets
+
+**Thoughts**: I will make short posts on lessons and other examples with which to apply them.
+
+---
+### Day 39: June 6, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 
 [ Template ]
 
