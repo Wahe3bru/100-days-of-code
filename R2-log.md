@@ -337,6 +337,41 @@ creating graphs for the presentation.
 ---
 ### Day 39: June 6, Friday
 
+**Today's Progress**: Reviewed advance features of lists, sets and dictionaries.
+
+**Thoughts**: 
+
+---
+### Day 40: June 7, Saturday
+
+**Today's Progress**: Started another DL course 'Deep Learning A-Z' on Udemy, went through the first chapter. 
+
+**Thoughts**: Using Keras is SO much simpler that TF. I think learning and aplying Keras will be better to get started using DL, and then learn TF proper in case i need to go deeper.
+
+---
+### Day 41: June 8, Sunday
+
+**Today's Progress**: I completed the Forward feed NN chapter from DL A-Z, learned to crossval and gridsearch using the keraswrapper and scikit-learn.
+
+**Thoughts**: I need to find a few basic datasets to test my usage of coding a NN. maybe from the datasets used in ML A-Z course.
+
+---
+### Day 42: June 9, Monday
+
+**Today's Progress**: Gone over Decision Trees and Random Forest from ML A-Z.
+
+**Thoughts**: Reading an article on embedding ML in a webapp i came across batching huge data and training the model dequntially using `.partial_fit()`. waiting on the next article where the writer uses flask to run the webapp.
+
+---
+### Day 43: June 10, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+---
+### Day 44: June 11, Wednesday
+
 **Today's Progress**: 
 
 **Thoughts**: 
