@@ -313,7 +313,7 @@ creating graphs for the presentation.
 **Thoughts**: I plan to complete all 7 by the end of review week
 
 ---
-### Day 36: June 4, Tuesday
+### Day 36: June 5, Tuesday
 
 **Today's Progress**: I've gone through the CNN section of the tensorflow course. gone through the exercise solution. read ISLR chapter 8; trees and ensembles
 
@@ -321,61 +321,81 @@ creating graphs for the presentation.
 
 
 ---
-### Day 37: June 4, Wednesday
+### Day 37: June 6, Wednesday
 
 **Today's Progress**: I completed 27 exercises on functions and another 3 on dictionaries
 
 **Thoughts**: picked up cool tricks, 
 
 ---
-### Day 38: June 5, Thursday
+### Day 38: June 7, Thursday
 
 **Today's Progress**: I completed all exercises on  dictionaries, wrote a notebook for reference and reviewed lists and sets
 
 **Thoughts**: I will make short posts on lessons and other examples with which to apply them.
 
 ---
-### Day 39: June 6, Friday
+### Day 39: June 8, Friday
 
 **Today's Progress**: Reviewed advance features of lists, sets and dictionaries.
 
 **Thoughts**: 
 
 ---
-### Day 40: June 7, Saturday
+### Day 40: June 9, Saturday
 
 **Today's Progress**: Started another DL course 'Deep Learning A-Z' on Udemy, went through the first chapter. 
 
 **Thoughts**: Using Keras is SO much simpler that TF. I think learning and aplying Keras will be better to get started using DL, and then learn TF proper in case i need to go deeper.
 
 ---
-### Day 41: June 8, Sunday
+### Day 41: June 10, Sunday
 
 **Today's Progress**: I completed the Forward feed NN chapter from DL A-Z, learned to crossval and gridsearch using the keraswrapper and scikit-learn.
 
 **Thoughts**: I need to find a few basic datasets to test my usage of coding a NN. maybe from the datasets used in ML A-Z course.
 
 ---
-### Day 42: June 9, Monday
+### Day 42: June 11, Monday
 
 **Today's Progress**: Gone over Decision Trees and Random Forest from ML A-Z.
 
-**Thoughts**: Reading an article on embedding ML in a webapp i came across batching huge data and training the model dequntially using `.partial_fit()`. waiting on the next article where the writer uses flask to run the webapp.
+**Thoughts**: Reading an article on embedding ML in a webapp i came across batching huge data and training the model sequntially using `.partial_fit()`. waiting on the next article where the writer uses flask to run the webapp.
 
 ---
-### Day 43: June 10, Tuesday
+### Day 43: June 12, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: I spent most of the day reviewing kaggle kernels on predicting games.
 
 **Thoughts**: 
 
 ---
-### Day 44: June 11, Wednesday
+### Day 44: June 13, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Built a basic model to predict results. Then refactored it into a function.
+
+**Thoughts**: Now that I have a basic model, I can build one with more vairables and hopefully more accurate.
+
+---
+### Day 45: June 14, Thursday
+
+**Today's Progress**: terrible migraine. not much work done
 
 **Thoughts**: 
 
+---
+### Day 46: June 15, Friday 
+
+**Today's Progress**: None.
+
+**Thoughts**: Eid. took a well deserve break and spent the day with family and friends.
+
+---
+### Day 47: June 16, Saturday
+
+**Today's Progress**: Did most of the Baye Test Due tommorow night. Went over the intuition for word2vec.
+
+**Thoughts**: Found Sendex tutorial on Dash, checking what he has to add
 
 [ Template ]
 
