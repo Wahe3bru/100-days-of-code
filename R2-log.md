@@ -397,6 +397,20 @@ creating graphs for the presentation.
 
 **Thoughts**: Found Sendex tutorial on Dash, checking what he has to add
 
+---
+### Day 48: June 17, Sunday
+
+**Today's Progress**: Fathers day, gone for half the day. but i was left alone for few hours to complete the rest of the test.
+
+**Thoughts**: 
+
+---
+### Day 49: June 18, Monday
+
+**Today's Progress**: Completed the Bayes test 70% -not great, but ok. Got my AWS working, but we using a colleagues as the central db to work from. Went over the train document on building a world cup model and using simulation.
+
+**Thoughts**: 
+
 [ Template ]
 
 ---
