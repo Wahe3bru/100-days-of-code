@@ -411,6 +411,14 @@ creating graphs for the presentation.
 
 **Thoughts**: 
 
+---
+### Day 50: June 19, Tuesday
+
+**Today's Progress**: I completed the pythonhow challenge. instructions abit unclear, but with some motivation from the discord chat i completed it.
+
+**Thoughts**: finding it difficult to power through building a model. going to rest tonight and make sure i have a working one tomorrow night
+
+
 [ Template ]
 
 ---
