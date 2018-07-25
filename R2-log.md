@@ -418,11 +418,38 @@ creating graphs for the presentation.
 
 **Thoughts**: finding it difficult to power through building a model. going to rest tonight and make sure i have a working one tomorrow night
 
+---
+### Day 0: July 9 - 16, 10 day internship
+
+**Today's Progress**: 
+
+**Thoughts**: review pending
+
+---
+### Day 51: July 23, Monday
+
+**Today's Progress**: mastering sql
+
+**Thoughts**: 
+
+---
+### Day 52: July 24, Tuesday
+
+**Today's Progress**: leaning api
+
+**Thoughts**: 
+
+---
+### Day 53: July 25, Wednesday
+
+**Today's Progress**: learning selenium and apis
+
+**Thoughts**: 
 
 [ Template ]
 
 ---
-### Day 0: month, day
+### Day 0: month date, day
 
 **Today's Progress**: 
 
